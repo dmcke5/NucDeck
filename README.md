@@ -4,17 +4,17 @@ The Open Source DIY Handheld Gaming PC!
 Refer to "Assembly Instructions.PDF" for assembly details.
 
 #### Project Status:
-3D Files: Complete
-Software: Controller Prototype Functional but not complete
-PCBs: Controller PCB's functional. Battery management still under development
+- [x] 3D Files
+- [ ] Software: Controller Prototype Functional but not complete
+- [ ] PCBs: Controller PCB's functional. Battery management still under development
 
 Total Parts Price (not including NUC): $109.97 USD
 
 Watch the series on Youtube as I design and test parts of this project:
-Episode 1: https://youtu.be/xVYYCx3Qt4Y /n
-Episode 2: https://youtu.be/nOXd3axX4fw /n
-Episode 3: https://youtu.be/yHMnScoKIOE 
-Episode 4: https://youtu.be/rP_sMztufNs 
+[Episode 1](https://youtu.be/xVYYCx3Qt4Y)
+[Episode 2](https://youtu.be/nOXd3axX4fw)
+[Episode 3](https://youtu.be/yHMnScoKIOE)
+[Episode 4](https://youtu.be/rP_sMztufNs)
 
 ## Parts List
 
