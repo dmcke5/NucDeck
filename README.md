@@ -11,10 +11,10 @@ Refer to "Assembly Instructions.PDF" for assembly details.
 Total Parts Price (not including NUC): $109.97 USD
 
 Watch the series on Youtube as I design and test parts of this project:
-[Episode 1](https://youtu.be/xVYYCx3Qt4Y)
-[Episode 2](https://youtu.be/nOXd3axX4fw)
-[Episode 3](https://youtu.be/yHMnScoKIOE)
-[Episode 4](https://youtu.be/rP_sMztufNs)
+- [Episode 1](https://youtu.be/xVYYCx3Qt4Y)
+- [Episode 2](https://youtu.be/nOXd3axX4fw)
+- [Episode 3](https://youtu.be/yHMnScoKIOE)
+- [Episode 4](https://youtu.be/rP_sMztufNs)
 
 ## Parts List
 
