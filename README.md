@@ -1,16 +1,29 @@
 # NucDeck
 The Open Source DIY Handheld Gaming PC!
 
-Parts list total price: $109.97 USD
+Refer to "Assembly Instructions.PDF" for assembly details.
+
+#### Project Status:
+3D Files: Complete
+Software: Controller Prototype Functional but not complete
+PCBs: Controller PCB's functional. Battery management still under development
+
+Total Parts Price (not including NUC): $109.97 USD
+
+Watch the series on Youtube as I design and test parts of this project:
+Episode 1: https://youtu.be/xVYYCx3Qt4Y
+Episode 2: https://youtu.be/nOXd3axX4fw
+Episode 3: https://youtu.be/yHMnScoKIOE
+Episode 4: https://youtu.be/rP_sMztufNs
 
 ## Parts List
 
-#### Display - Cost: $32.87
+#### Display - Cost: $32.87 USD
 
 Any 1024x600 50 Pin RGB Panel with overall dimensions no greater than 164.9x100x3.3mm.
 This is the 700nit IPS panel I ended up using: https://www.aliexpress.com/item/1005005315348504.html
 
-#### Display Driver - Cost: $15.22
+#### Display Driver - Cost: $15.22 USD
 
 Pick the "PCB800812V1" option:
 https://www.aliexpress.com/item/1005004252996145.html
@@ -30,7 +43,7 @@ https://www.aliexpress.com/item/1005002490383977.html
 Joysticks are an Alps RKJX21224001. Here's a cheap seller on aliexpress:
 https://www.aliexpress.com/item/1005005264696228.html
 
-#### Batteries - Cost: $28.76
+#### Batteries - Cost: $28.76 USD
 
 4x 605080 3000mah Lithium cells. Here's a cheap supplier on Aliexpress:
 https://www.aliexpress.com/item/32990176071.html
