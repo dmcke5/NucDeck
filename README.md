@@ -3,7 +3,7 @@ The Open Source DIY Handheld Gaming PC!
 
 Refer to "Assembly Instructions.PDF" for assembly details.
 
-#### Project Status:
+#### Project Status --- WARNING - PCB's and software incomplete. Begin at your own risk! ---
 - [x] 3D Files
 - [ ] Software: Controller Prototype Functional but not complete
 - [ ] PCBs: Controller PCB's functional. Battery management still under development
