@@ -11,8 +11,8 @@ PCBs: Controller PCB's functional. Battery management still under development
 Total Parts Price (not including NUC): $109.97 USD
 
 Watch the series on Youtube as I design and test parts of this project:
-Episode 1: https://youtu.be/xVYYCx3Qt4Y 
-Episode 2: https://youtu.be/nOXd3axX4fw 
+Episode 1: https://youtu.be/xVYYCx3Qt4Y \n
+Episode 2: https://youtu.be/nOXd3axX4fw \n
 Episode 3: https://youtu.be/yHMnScoKIOE 
 Episode 4: https://youtu.be/rP_sMztufNs 
 
