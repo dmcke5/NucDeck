@@ -5,6 +5,14 @@ The Open Source DIY Handheld Gaming PC!
 
 Refer to "Assembly Instructions.PDF" for assembly details.
 
+There are two different versions of the housing, Standard and NoRGB. The NoRGB version has had
+the RGB joystick surrounds removed to simplify printing. If you choose the NoRGB version you can leave all of the 
+associated components off the PCB's to save on cost.
+
+There are two different versions of the buttons, membrane and clicky. The Membrane buttons are shorter and are
+designed to be used with silicone membranes. I've included files for molds to make the membranes. If you have a resin printer
+I encourage you to give this a try as it improves the feel of the buttons dramatically. FDM printers will struggle to produce the accuracy required to make these parts. The clicky version is slightly taller and can be used without the membranes.
+
 #### Project Status
 - [x] 3D Files
 - [ ] Software: Controller Prototype Functional but not complete
@@ -12,7 +20,7 @@ Refer to "Assembly Instructions.PDF" for assembly details.
 
 Total Parts Price (not including NUC): $109.97 USD
 
-Watch the series on Youtube as I design and test parts of this project:
+Watch the series on Youtube as I design, build and test parts of this project:
 - [Episode 1](https://youtu.be/xVYYCx3Qt4Y)
 - [Episode 2](https://youtu.be/nOXd3axX4fw)
 - [Episode 3](https://youtu.be/yHMnScoKIOE)
