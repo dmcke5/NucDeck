@@ -57,3 +57,8 @@ https://www.aliexpress.com/item/1005005264696228.html
 
 4x 605080 3000mah Lithium cells. Here's a cheap supplier on Aliexpress:
 https://www.aliexpress.com/item/32990176071.html
+
+
+#### Springs
+
+https://www.aliexpress.com/item/1005004968066601.html?pdp_npi=2%40dis%21AUD%21AU%242.68%21AU%242.42%21%21%21%21%21%402101c80016913524290434618ed788%2112000031188329613%21btf&_t=pvid:db927d89-c183-4199-82e3-41bbafa2df57&afTraceInfo=1005004968066601__pc__pcBridgePPC__xxxxxx__1691352429&spm=a2g0o.ppclist.product.mainProduct
