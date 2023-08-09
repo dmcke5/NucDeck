@@ -20,47 +20,47 @@ I encourage you to give this a try as it improves the feel of the buttons dramat
 - [ ] Software: Controller Prototype Functional but not complete
 - [ ] PCBs: Controller PCB's functional. Battery management still under development
 
-Total Parts Price (not including NUC): $109.97 USD
-
 Watch the series on Youtube as I design, build and test parts of this project:
 - [Episode 1](https://youtu.be/xVYYCx3Qt4Y)
 - [Episode 2](https://youtu.be/nOXd3axX4fw)
 - [Episode 3](https://youtu.be/yHMnScoKIOE)
 - [Episode 4](https://youtu.be/rP_sMztufNs)
 
+I've found links for all of the parts on Aliexpress since its probably the cheapest option and will ship worldwide.
+
 ## Parts List
 
-#### Display - Cost: $32.87 USD
+#### Display
 
 Any 1024x600 50 Pin RGB Panel with overall dimensions no greater than 164.9x100x3.3mm.
 This is the 700nit IPS panel I ended up using: https://www.aliexpress.com/item/1005005315348504.html
 
-#### Display Driver - Cost: $15.22 USD
+#### Display Driver
 
 Pick the "PCB800812V1" option:
 https://www.aliexpress.com/item/1005004252996145.html
 
-#### USB Touch Controller - Cost: $10.77 USD
+#### USB Touch Controller
 
 Pick option "USB Controller":
 https://www.aliexpress.com/item/32976239800.html
 
-#### Capacitive Touch Panel - Cost: $14.30 USD
+#### Capacitive Touch Panel
 
 This is the seller I used, but anyone selling for the same model tablet (Pritom K7) should do:
 https://www.aliexpress.com/item/1005002490383977.html
 
-#### Joysticks - Cost: $8.05 USD
+#### Joysticks
 
 Joysticks are an Alps RKJX21224001. Here's a cheap seller on aliexpress:
 https://www.aliexpress.com/item/1005005264696228.html
 
-#### Batteries - Cost: $28.76 USD
+#### Batteries
 
 4x 605080 3000mah Lithium cells. Here's a cheap supplier on Aliexpress:
 https://www.aliexpress.com/item/32990176071.html
 
-#### Info Screen - Cost: $2 USD
+#### Info Screen
 
 0.96" IPS 80x160 ST7735 TFT Display
 https://www.aliexpress.com/item/1005001598020071.html
@@ -83,3 +83,18 @@ These guys have a lot of different options, they are pretty cheap so I'd grab a 
 and test them out to see what you like. You need about 2mm ID on the coil section, so look for an ID of at least double the wire
 thickness greater than 2mm.
 https://www.aliexpress.com/item/1005004968066601.html
+
+#### Trigger Magnets
+
+You'll never need fridge magnets again!
+https://www.aliexpress.com/item/1005003794726533.html
+
+#### RGB Lights
+
+You'll need both RGB LED's and WS2811 IC's if you're adding RGB to your controller PCB's.
+These are the LED's I used. Any alternative in the same sized package should be fine too, just be cautious of
+differing pin configurations.
+https://www.aliexpress.com/item/1005003719602946.html
+
+WS2811 IC's:
+https://www.aliexpress.com/item/32844615804.html
