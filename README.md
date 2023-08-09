@@ -1,9 +1,11 @@
+![Alt text](Title.jpg "NucDeck")
+
 # NucDeck
 The Open Source DIY Handheld Gaming PC!
 
  --- WARNING - PCB's and software incomplete. Begin at your own risk! ---
 
-Refer to "Assembly Instructions.PDF" for assembly details.
+Refer to "NucDeck Assembly Instructions.PDF" for mechanical assembly details. Information for the electronics will be added once the controller PCB's are complete.
 
 There are two different versions of the housing, Standard and NoRGB. The NoRGB version has had
 the RGB joystick surrounds removed to simplify printing. If you choose the NoRGB version you can leave all of the 
@@ -58,7 +60,26 @@ https://www.aliexpress.com/item/1005005264696228.html
 4x 605080 3000mah Lithium cells. Here's a cheap supplier on Aliexpress:
 https://www.aliexpress.com/item/32990176071.html
 
+#### Info Screen - Cost: $2 USD
 
-#### Springs
+0.96" IPS 80x160 ST7735 TFT Display
+https://www.aliexpress.com/item/1005001598020071.html
 
-https://www.aliexpress.com/item/1005004968066601.html?pdp_npi=2%40dis%21AUD%21AU%242.68%21AU%242.42%21%21%21%21%21%402101c80016913524290434618ed788%2112000031188329613%21btf&_t=pvid:db927d89-c183-4199-82e3-41bbafa2df57&afTraceInfo=1005004968066601__pc__pcBridgePPC__xxxxxx__1691352429&spm=a2g0o.ppclist.product.mainProduct
+#### Threaded Inserts
+
+17x M2x4x3.2
+10x M3x5x5
+2x M3x4x5
+https://www.aliexpress.com/item/1005003582355741.html
+
+#### Standoffs
+
+10x M2x6mm Male to Female Standoffs
+https://www.aliexpress.com/item/4001271908929.html
+
+#### Trigger Springs
+
+These guys have a lot of different options, they are pretty cheap so I'd grab a few different wire thicknesses
+and test them out to see what you like. You need about 2mm ID on the coil section, so look for an ID of at least double the wire
+thickness greater than 2mm.
+https://www.aliexpress.com/item/1005004968066601.html
