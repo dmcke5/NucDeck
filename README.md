@@ -63,6 +63,8 @@ https://www.aliexpress.com/item/32990176071.html
 #### Info Screen
 
 0.96" IPS 80x160 ST7735 TFT Display
+
+You need the one these guys refer to as "Spliced Type".
 https://www.aliexpress.com/item/1005001598020071.html
 
 #### Threaded Inserts
@@ -81,7 +83,7 @@ https://www.aliexpress.com/item/4001271908929.html
 
 These guys have a lot of different options, they are pretty cheap so I'd grab a few different wire thicknesses
 and test them out to see what you like. You need about 2mm ID on the coil section, so look for an ID of at least double the wire
-thickness greater than 2mm.
+thickness greater than 2mm. I found 0.4mm to feel a bit too thin, and 0.7mm is about the limit of the trigger supports so 0.5-0.6mm is probably the sweet spot.
 https://www.aliexpress.com/item/1005004968066601.html
 
 #### Trigger Magnets
