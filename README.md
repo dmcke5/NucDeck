@@ -25,6 +25,7 @@ Watch the series on Youtube as I design, build and test parts of this project:
 - [Episode 2](https://youtu.be/nOXd3axX4fw)
 - [Episode 3](https://youtu.be/yHMnScoKIOE)
 - [Episode 4](https://youtu.be/rP_sMztufNs)
+- [Episode 5](https://youtu.be/sQocfy4pwIQ)
 
 I've found links for all of the parts on Aliexpress since its probably the cheapest option and will ship worldwide.
 
@@ -81,6 +82,7 @@ https://www.aliexpress.com/item/4001271908929.html
 
 #### Trigger Springs
 
+--NOTE-- Ignore the wire thickness in the Assembly Drawing, it is incorrect. I will fix it when I next need to make changes. Correct thickness listed here.
 These guys have a lot of different options, they are pretty cheap so I'd grab a few different wire thicknesses
 and test them out to see what you like. You need about 2mm ID on the coil section, so look for an ID of at least double the wire
 thickness greater than 2mm. I found 0.4mm to feel a bit too thin, and 0.7mm is about the limit of the trigger supports so 0.5-0.6mm is probably the sweet spot.
