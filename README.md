@@ -100,3 +100,17 @@ https://www.aliexpress.com/item/1005003719602946.html
 
 WS2811 IC's:
 https://www.aliexpress.com/item/32844615804.html
+
+#### Screws
+
+Here's a list of the screws required for assembly. This list is also in the assembly instructions. SCHS is just a standard allen key head screw. CSK is a countersunk head screw. Most bolt suppliers should have these, otherwise ebay or aliexpress is your friend.
+
+12x M3x6mm SHCS
+2x M2x16 CSK
+9x M2x5 CSK
+14x M2x4 SHCS
+
+
+## PCB's
+
+Controller PCB's will be uploaded as part of the next batch of files once I have the designs tested and finalised.
