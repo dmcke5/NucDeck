@@ -71,9 +71,14 @@ https://www.aliexpress.com/item/1005001598020071.html
 
 #### Threaded Inserts
 
-17x M2x4x3.2
+Measurments are: Thread x OD x Length
+
+17x M2x3.2x4
+
 10x M3x5x5
-2x M3x4x5
+
+2x M3x5x4
+
 https://www.aliexpress.com/item/1005003582355741.html
 
 #### Standoffs
