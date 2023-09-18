@@ -56,6 +56,7 @@ https://www.aliexpress.com/item/1005002490383977.html
 
 Joysticks are an Alps RKJX21224001. Here's a cheap seller on aliexpress:
 https://www.aliexpress.com/item/1005005264696228.html
+Joystick caps are Xbox One compatible.
 
 #### Batteries
 
