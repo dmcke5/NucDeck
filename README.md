@@ -27,6 +27,7 @@ Watch the series on Youtube as I design, build and test parts of this project:
 - [Episode 4](https://youtu.be/rP_sMztufNs)
 - [Episode 5](https://youtu.be/sQocfy4pwIQ)
 - [Bonus Episode - Battery Life Testing](https://youtu.be/6FQKwnMxRxI)
+- [Episode 6](https://youtu.be/mfuAvgmuT2s)
 
 I've found links for all of the parts on Aliexpress since its probably the cheapest option and will ship worldwide.
 
