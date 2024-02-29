@@ -1,4 +1,4 @@
-![Alt text](Title.jpg "NucDeck")
+![Alt text](Title.png "NucDeck")
 
 # NucDeck
 The Open Source DIY Handheld Gaming PC!
