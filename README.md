@@ -3,8 +3,6 @@
 # NucDeck
 The Open Source DIY Handheld Gaming PC!
 
- --- WARNING - PCB's and software incomplete. Begin at your own risk! ---
-
 Refer to "NucDeck Assembly Instructions.PDF" for mechanical assembly details. Information for the electronics will be added once the controller PCB's are complete.
 
 There are two different versions of the housing, Standard and NoRGB. The NoRGB version has had
@@ -17,8 +15,8 @@ I encourage you to give this a try as it improves the feel of the buttons dramat
 
 #### Project Status
 - [x] 3D Files
-- [ ] Software: Controller Prototype Functional but not complete
-- [ ] PCBs: Controller PCB's functional. Battery management still under development
+- [x] Software: V1.0 ready for testing. Motion controls not yet implemented
+- [x] PCBs: Complete
 
 Watch the series on Youtube as I design, build and test parts of this project:
 - [Episode 1](https://youtu.be/xVYYCx3Qt4Y)
@@ -29,6 +27,8 @@ Watch the series on Youtube as I design, build and test parts of this project:
 - [Bonus Episode - Battery Life Testing](https://youtu.be/6FQKwnMxRxI)
 - [Episode 6](https://youtu.be/mfuAvgmuT2s)
 - [Episode 7](https://youtu.be/nFNw7_WkteA)
+- [Episode 8](https://youtu.be/YYRD0Zlga5s)
+- [Episode 9](https://youtu.be/t9Rao_BeIeM)
 
 I've found links for all of the parts on Aliexpress since its probably the cheapest option and will ship worldwide.
 
@@ -120,8 +120,3 @@ Here's a list of the screws required for assembly. This list is also in the asse
 2x M2x16 CSK
 9x M2x5 CSK
 14x M2x4 SHCS
-
-
-## PCB's
-
-Controller PCB's will be uploaded as part of the next batch of files once I have the designs tested and finalised.

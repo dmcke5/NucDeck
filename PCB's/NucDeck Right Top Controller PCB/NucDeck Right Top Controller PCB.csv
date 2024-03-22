@@ -1,0 +1,8 @@
+All parts available from digikey unless otherwise specified,,,
+,,,
+Qty,Reference(s),Value,Footprint
+6,"C1, C2, C3, C4, C5, C6",0.1uF,Capacitor 0603_1608Metric
+1,J1,527450697,CON_527450697_MOL
+1,J2,2-1734592-2,CONN22_2-1734592-2
+1,U1,Pico,Raspberry Pi Pico
+1,U3,DRV5053OAQDBZR,DBZ0003A_N
