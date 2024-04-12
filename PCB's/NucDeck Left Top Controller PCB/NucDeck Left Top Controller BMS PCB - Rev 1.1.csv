@@ -22,7 +22,7 @@ Qty,Reference(s),Value
 1,R6,30.31K
 1,R7,5.24K
 1,R8,100ohm
-1,R12,0.01R
+1,R12,PCS2512DR0100ET
 1,R14,11.1k
 1,Thermistor,"	
 103AT-5-1P-FT"
