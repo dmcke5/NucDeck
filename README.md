@@ -17,6 +17,13 @@ Total Cost of parts approximately: $311 USD
 
 This is based on PCBway's pricing for the PCB's and is not including a NUC or any shipping charges. I've probably missed counting something so I would budget for a little more!
 
+Here's a breakdown of the costs:
+- Digikey parts: $55 USD
+- PCB's (Set of 5 due to MOQ): $204 USD
+- Aliexpress Parts: $52 USD
+
+If you can organise a group of 5 people who want a set of PCB's, you will greatly reduce your total cost to build.
+
 #### Project Status
 - [x] 3D Files
 - [x] Software: V1.0 ready for testing. Motion controls not yet implemented
