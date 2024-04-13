@@ -13,6 +13,9 @@ There are two different versions of the buttons, membrane and clicky. The Membra
 designed to be used with silicone membranes. I've included files for molds to make the membranes. If you have a resin printer
 I encourage you to give this a try as it improves the feel of the buttons dramatically. FDM printers will struggle to produce the accuracy required to make these parts. The clicky version is slightly taller and can be used without the membranes.
 
+Total Cost of parts approximately: $311 USD
+This is based on PCBway's pricing for the PCB's and is not including a NUC or any shipping charges. I've probably missed counting something so I would budget for a little more!
+
 #### Project Status
 - [x] 3D Files
 - [x] Software: V1.0 ready for testing. Motion controls not yet implemented
@@ -120,3 +123,6 @@ Here's a list of the screws required for assembly. This list is also in the asse
 2x M2x16 CSK
 9x M2x5 CSK
 14x M2x4 SHCS
+
+#### 4s Cell Balancer
+https://www.aliexpress.com/item/1005005827876691.html?spm=a2g0o.order_list.order_list_main.80.25b118029RA9Ep
