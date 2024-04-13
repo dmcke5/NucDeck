@@ -14,6 +14,7 @@ designed to be used with silicone membranes. I've included files for molds to ma
 I encourage you to give this a try as it improves the feel of the buttons dramatically. FDM printers will struggle to produce the accuracy required to make these parts. The clicky version is slightly taller and can be used without the membranes.
 
 Total Cost of parts approximately: $311 USD
+
 This is based on PCBway's pricing for the PCB's and is not including a NUC or any shipping charges. I've probably missed counting something so I would budget for a little more!
 
 #### Project Status
