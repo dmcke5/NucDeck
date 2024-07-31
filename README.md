@@ -133,4 +133,4 @@ Here's a list of the screws required for assembly. This list is also in the asse
 14x M2x4 SHCS
 
 #### 4s Cell Balancer
-https://www.aliexpress.com/item/1005005827876691.html?spm=a2g0o.order_list.order_list_main.80.25b118029RA9Ep
+https://www.aliexpress.com/item/1005005827876691.html
